@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Research and Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@sai.kannadkar](https://medium.com/@sai.kannadkar)
-
 - 💬 Ask me about **Space Exploration**
 
 - 📫 How to reach me **saikannadkar@gmail.com**
