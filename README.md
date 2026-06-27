@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
 
 <!-- Profile Introduction -->
 <h1>Hey 👋, I'm Sai Kannadkar</h1>
