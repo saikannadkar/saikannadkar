@@ -5,12 +5,12 @@
 <h3>Computer Science Engineering Student | AI/ML Enthusiast | SECT India 2.0</h3>
 
 ## 💫 About Me:
-🔭 I'm currently working on an MCP server that will connect to Pharos Wallet<br>
+🔭 I'm currently working on my Internship projects<br>
 👯 I'm looking to collaborate on Building Tech Startups<br>
 🤝 I'm looking for help with Open Source Contributions<br>
 🌱 I'm currently learning AI Agents and Cloud Services<br>
 💬 Ask me about System Design, Dev and many more!!<br>
-⚡ Fun fact, I'm a Vibecoder
+⚡ Fun fact, A Web Developer can be vibe coder, but a vibe coder can never be a web devloper
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saikannadkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saikannadkar_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hey@saikannadkar.tech)
